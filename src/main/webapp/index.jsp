@@ -2,6 +2,6 @@
 <body>
 <h2>Hello World!</h2>
 <p>Prosper Ademoye</p>
-<p>If you see this line in Github, that meeeeeans your latest changes are getting pushed to your cloud repo :o</p>
+<p>If you see this line in Github, that meeeeeans your latest chang es are getting pushed to your cloud repo :o</p>
 </body>
 </html>
